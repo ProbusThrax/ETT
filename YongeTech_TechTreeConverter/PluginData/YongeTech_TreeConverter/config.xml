@@ -1,5 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<config>
-    <bool name="enable">1</bool>
-    <string name="treeWriteDir">GameData/YongeTech_TechTreeConverter/ConvertedTrees/</string>
-</config>
