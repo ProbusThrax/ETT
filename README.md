@@ -82,6 +82,8 @@ Rules:
 
 6. Leave all parts that show up in the "none" category alone.  That usually means there is an error somewhere.
 
+7. Don't change the placement of Squad parts.
+
 
 I really appreciate all the help!!!
 
