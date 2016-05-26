@@ -12,7 +12,7 @@ Getting Started:
 
 2. Find your KSP directory and add that.
 
-3. You need to download and use the latest ETT.cfg from the github directory. (https://github.com/ProbusThrax/ETT/tree/master/GameData/ETT)
+3. You need to download and use the latest EngTechTree.cfg from the github directory. (https://github.com/ProbusThrax/ETT/tree/master/GameData/ETT)
 
 4. Put it in your GameData/ETT folder.
 
@@ -65,7 +65,7 @@ Final Step:
 
 3. I will check it for errors and merge it into the master file or send it back to you for revisions.
 
-4. If you don't want to use github (its not as scary as it looks) send me the ETT.cfg and I will merge it for you.
+4. If you don't want to use github (its not as scary as it looks) send me the EngTechTree.cfg and I will merge it for you.
 
 
 Rules:
