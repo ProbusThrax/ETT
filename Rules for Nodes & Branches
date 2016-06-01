@@ -1,0 +1,65 @@
+Rules for Nodes & Branches:
+Here are a few rules for guidance. 
+
+Engines by size. (1.25, .625, 2.5, 3.75, 5, 7.5, 10+)
+1st node is basic engine, coupler, adapter small tanks
+2nd is efficient engine, bigger, more gimbal, medium tanks & stack seperator  
+3rd is largest engine, largest tanks
+
+Probes by node:
+1st is SAS only
+2nd adds retro & prograde
+3rd adds normals & radials
+4th adds targeting and node
+
+If the probe special promotes the part such as: built in solar panels, grabber, large SAS, RCS, etc...
+
+Manned Flight
+1st adds 1 kerbal orbiter w/parts
+2nd adds 2 kerbal orbiter, very basic station parts
+3rd Splits to:
+ 3 kerbal orbiter
+ 1 kerbal lander
+ EVA tech
+ basic station parts 
+
+Again, special characteristics in a pod/lander can promote it.
+
+Station branch progresses with recyclables, and extra life support, bigger and better parts leading towards permanent habitation. 
+
+Antennas branch is by range:
+1st is up to 15 Mmeters
+2nd is up to 50 Mm
+3rd is up to 100 Gm
+4th is above 100 Gm
+
+Renewable Resources (Solar Panels):
+1st are fixed and up to 1 Ec/s
+2nd are tracking and up to 15 Ec/s
+3rd are up to 30 Ec/s
+4th is above 30 Ec/s
+
+Docking:
+1st are small docking ports (0.625)
+2nd is medium to large ports (2.5)
+3rd node is for special ports (movable, shielded) and ports larger than 2.5 meters
+
+SRBs - Calculate the potential of the SRB by multiplying the Thrust(ac) by the Solid Fuel:
+1st node is up to 30K
+2nd node is up to 100K
+ Ullage - any small ullage SRBs
+3rd node is up to 250K
+4th node is up to 20M
+5th node is anything larger
+
+RCS & SAS - This is a dual branch unlocked by either rocket engines (RCS) or flight gyros (SAS)
+with a common node for sevice modules containing a supply (generator, solar panels...) and either RCS & SAS.
+RCS Nodes
+1st are basic RCS thrusters
+2nd are advanced RCS thrusters, verniers, 5 port...
+
+SAS Nodes
+1st are simple gyros
+2nd is advanced gyros (10+ torque)
+
+More to follow...
